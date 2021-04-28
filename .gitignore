@@ -130,3 +130,4 @@ dmypy.json
 
 # Ignore Information
 /WeatherPy/api_key.py
+/VacationPy/api_key.py
